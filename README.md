@@ -33,7 +33,7 @@ Key attributes include:
    - Created new features to improve model performance.
    - Selected relevant features based on correlation analysis.
 4. **Model Training**
-   - Used different machine learning models such as Logistic Regression, Random Forest, and XGBoost.
+   - Used different machine learning models such as Logistic Regression, SVM, Random Forest.
    - Implemented deep learning models using TensorFlow/Keras.
    - Evaluated models using accuracy, precision, recall, and F1-score.
 5. **Model Evaluation and Interpretation**
